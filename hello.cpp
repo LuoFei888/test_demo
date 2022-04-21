@@ -1,8 +1,9 @@
 //你好
 int main（）
 {
-	int a;
+	int a,b;
 	a=100;
-	printf("a=%d",a);
+	b=200;
+	printf("a=%d,b=%d",a,b);
 	return 0;
 }
