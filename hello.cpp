@@ -7,4 +7,5 @@ int main（）
 	printf("a=%d,b=%d",a,b);
 	return 0;
 	\\master
+	\\hot-fix
 }
