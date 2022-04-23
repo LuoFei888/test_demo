@@ -6,6 +6,7 @@ int main（）
 	b=2000;
 	printf("a=%d,b=%d",a,b);
 	return 0;
-	\\master
 	\\hot-fix
+	\\master
+	1223
 }
