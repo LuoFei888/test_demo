@@ -2,8 +2,8 @@
 int main（）
 {
 	int a,b;
-	a=100;
-	b=200;
+	a=1000;
+	b=2000;
 	printf("a=%d,b=%d",a,b);
 	return 0;
 }
